@@ -8,7 +8,7 @@ variable "region" {
 }
 variable "project" {
   type    = string
-  default = "[プロジェクト名]"
+  default = ”ai-content-platform"
 }
 variable "environment" {
   type    = string
